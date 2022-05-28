@@ -83,7 +83,8 @@ ul {
     font-size: 44px;
     line-height: 1,36;
     letter-spacing: 0.06em;
-    color: var(--header-color);    
+    color: var(--header-color);  
+    text-transform: uppercase;
  }
  
 .hero-btn {
@@ -110,6 +111,7 @@ ul {
     line-height: 1.14;
     letter-spacing: 0.03em;
     color: var(--second-text-color);
+    text-transform: uppercase;
  }
 .about-text {
     font-weight: 400;

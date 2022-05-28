@@ -93,7 +93,7 @@ ul {
     line-height: 1.88;
     letter-spacing: 0.06em;
     background-color: var(--thirt-background-color);
-    color: var(--second-text-color);
+    color: var(--header-color);
  }
 
 .hero-btn:hover,
@@ -184,7 +184,6 @@ ul {
  }
 
 .footer-link {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
